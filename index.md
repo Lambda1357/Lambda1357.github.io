@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Introduce myself
+Lambda1357<br>
+배준형, 게임 프로그래밍 전공 <br>
+​서울디지텍고등학교 2020년 졸업 예정
 
-You can use the [editor on GitHub](https://github.com/Lambda1357/Lambda1357.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 사용 언어 및 라이브러리 <br>
+`C/C++`, `C#`, `SDL`, `DirectX`, `Unity`, `Google Test`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Repository on Github
+### MiracleBoys
+![Image](./image/MiracleBoys.jpg)
 
-### Markdown
+개발 환경 : `SDL 2.0.7` + `C++` <br>
+음악에 따라 캐릭터가 미리 지정된 대로 애니메이션을 보여주는 음악 감상 소프트웨어입니다. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[View on Github](https://github.com/Lambda1357/MiracleBoys)
 
-```markdown
-Syntax highlighted code block
+### FindIt_KoreaHistory
+![image](./image/FindIt_KoreaHistory.png)
 
-# Header 1
-## Header 2
-### Header 3
+개발 환경 : `SDL 2.0.7` + `C++` <br>
+역사를 주제로 하여 개발한 틀린그림찾기 게임입니다.
 
-- Bulleted
-- List
+[View on Github](https://github.com/Lambda1357/FindIt_KoreaHistory)
 
-1. Numbered
-2. List
+### WinAPI_Study
+![Image](./image/WinAPI_Study.png)
 
-**Bold** and _Italic_ and `Code` text
+개발 환경 : `WinAPI` + `C++` <br>
+윈도우즈 API를 활용해 텍스트와 백터 그래픽, 래스터 이미지 등을 출력하고 비동기 입력을 공부한 프로젝트들입니다.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lambda1357/Lambda1357.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[View on Github](https://github.com/Lambda1357/WinAPI_Study)
